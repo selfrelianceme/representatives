@@ -4,7 +4,7 @@ namespace Selfreliance\Representatives;
 
 use Illuminate\Support\ServiceProvider;
 
-class RepresentativesServiceProvider extends ServiceProvider
+class RepresentativesAdminServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
