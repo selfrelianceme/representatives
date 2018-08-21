@@ -1,7 +1,7 @@
 {
   "name": "selfreliance/representatives",
   "type": "library",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "representatives list of users",
   "keywords": ["laravel"],
   "homepage": "https://github.com/selfrelianceme/representatives",
