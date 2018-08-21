@@ -15,7 +15,7 @@
   "extra": {
       "laravel":{
           "providers": [
-            "Selfreliance\\RepresentativesAdmin\\RepresentativesAdminServiceProvider"
+            "Selfreliance\\Representatives\\RepresentativesAdminServiceProvider"
           ]
       }
   },
@@ -26,6 +26,6 @@
     "phpunit/phpunit": "~4.8"
   },
   "autoload": {
-    "psr-4": {"Selfreliance\\RepresentativesAdmin\\": "src/"}
+    "psr-4": {"Selfreliance\\Representatives\\": "src/"}
   }
 }
